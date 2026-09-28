@@ -566,3 +566,8 @@ Before commercial deployment, verify:
 ## © Copyright
 
 © 2026 FROST — Ice & Cocktail Accessories. All rights reserved.
+
+
+## V2 Image Placement
+
+V2 refines the visual asset system using a consistent fixed media-container approach inspired by the supplied reference storefront. Product photography is isolated inside dedicated image areas with consistent dimensions, rounded corners, `overflow:hidden`, and `object-fit: cover`, while editorial copy remains outside the image itself.
