@@ -1,7 +1,8 @@
-# FROST V2 Asset Notes
+# FROST Asset Notes — V3
 
 - `assets/branding/frost-logo.jpg` — FROST project logo, optimized below 1 MB.
-- Product/editorial imagery is stored locally; there are 24 distinct product image files.
-- V2 follows the supplied reference storefront's image-placement pattern: fixed media containers, `overflow:hidden`, consistent rounded corners, `img { width:100%; height:100%; object-fit:cover; display:block; }`, and separate image regions from text/content.
-- Hero, category, banner, and product images are separated from UI copy so text is not baked into product media.
+- Product photography uses 24 distinct local square images prepared for this catalog; each product has its own image.
+- Editorial and category photography is stored separately from product photography.
+- No product or editorial image depends on a remote URL.
+- Images are placed inside fixed aspect-ratio containers with centered cropping to prevent stretching and layout shifts.
 - Before commercial use, verify product specifications, inventory, trademarks, policies and commercial asset rights.
